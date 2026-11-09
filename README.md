@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Salut%2C+moi+c%27est+Amen+%F0%9F%91%8B;%C3%89tudiant+ing%C3%A9nieur+%C2%B7+IA+g%C3%A9n%C3%A9rative+%26+Agents;RAG+%C2%B7+GraphRAG+%C2%B7+Imagerie+m%C3%A9dicale+3D" alt="Bannière animée" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&height=60&lines=Salut%2C+moi+c%27est+Amen+%F0%9F%91%8B;%C3%89tudiant+ing%C3%A9nieur+%C2%B7+IA+g%C3%A9n%C3%A9rative+%26+Agents;RAG+%C2%B7+GraphRAG+%C2%B7+Imagerie+m%C3%A9dicale+3D" alt="Bannière animée" />
 
 ### <em>Building agentic AI pipelines, RAG systems & 3D medical imaging apps</em>
 
@@ -12,16 +12,12 @@
 
 ## 🧠 À propos de moi
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=amenallah00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=BF91F3&text_color=C9D1D9" alt="Statistiques GitHub" />
-
 - 🔭 Étudiant ingénieur à **ENICarthage**, spécialisé en **IA générative appliquée** : pipelines **RAG / GraphRAG**, **agents autonomes** basés sur LLM et **matching sémantique**
 - 🩻 Je segmente des scanners CT abdominaux en 3D avec **nnU-Net v2** (PyTorch, CUDA 12.4 — inférence ≈ 1 s)
 - 🤖 J'ai construit un **agent DevOps** qui relit les pull requests : descriptions, labels, reviewers suggérés, synthèse des statuts CI — déployé sur **Vercel + Railway**
 - 🌱 J'approfondis actuellement l'**orchestration multi-agents**, les **graphes de connaissances (Neo4j)** et l'**évaluation de RAG**
 - 💬 Demandez-moi : **Python, LangChain, FastAPI, PyTorch, RAG**
 - 🎯 À la recherche d'un **PFE de 6 mois dès février 2027** (chatbots RAG, agents IA)
-
-<br clear="right"/>
 
 ---
 
@@ -77,19 +73,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=amenallah00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=BF91F3&text_color=C9D1D9&rank_icon=github" alt="Statistiques" />
 <img height="180" src="https://streak-stats.demolab.com?user=amenallah00&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" alt="Série de contributions" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amenallah00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9" alt="Langages les plus utilisés" />
-
-</div>
-
----
-
-## 📈 Graphique d'activité
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amenallah00&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=BF91F3&point=FFFFFF" alt="Graphique d'activité" />
 
 </div>
 
@@ -104,16 +88,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amenallah00/amenallah00/output/github-contribution-grid-snake.svg" />
   <img alt="Serpent de contributions" src="https://raw.githubusercontent.com/amenallah00/amenallah00/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-</div>
-
----
-
-## ✍️ Citation du jour
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Citation" />
 
 </div>
 
