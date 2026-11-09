@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&height=60&lines=Salut%2C+moi+c%27est+Amen+%F0%9F%91%8B;%C3%89tudiant+ing%C3%A9nieur+%C2%B7+IA+g%C3%A9n%C3%A9rative+%26+Agents;RAG+%C2%B7+GraphRAG+%C2%B7+Imagerie+m%C3%A9dicale+3D" alt="Bannière animée" />
@@ -95,4 +96,14 @@
 
 <div align="center">
   <em>« Relier le modèle au produit : API, interface, sécurité et déploiement. »</em>
+</div>
+
+---
+
+## ✍️ Citation du jour
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Citation" />
+
 </div>
