@@ -6,8 +6,8 @@
   </a>
 
   <p align="center">
-    🎓 <b>Computer Engineering Student @ École Nationale d'Ingénieurs de Carthage (ENICarthage)</b><br/>
-    🤖 Specialized in Generative AI, Multi-Agent Systems, GraphRAG, and Scalable Full-Stack Engineering.
+    🎓 <b>Étudiant Ingénieur en Informatique @ École Nationale d'Ingénieurs de Carthage (ENICarthage)</b><br/>
+    🤖 Spécialisé en IA Générative, Systèmes RAG/GraphRAG, Agents Autonomes et Full-Stack.
   </p>
 
   <!-- Badges & Social Links -->
@@ -33,5 +33,7 @@
 
 ```yaml
 Profile Status:
-  Current Status: Computer Engineering Student (ENICarthage, 2024–2027)[cite: 1]
-  Targeting:
+  Current Status: Étudiant Ingénieur en Informatique (ENICarthage, 2024–2027)
+  Targeting: Stage de Fin d'Études (PFE) de 6 mois à partir de février 2027
+  Focus Domains: IA Générative, Pipelines RAG/GraphRAG, Agents LLM, Full-Stack
+  Core Stack: Python (FastAPI, PyTorch), Java (Spring Boot), TypeScript (React 19, Angular)
